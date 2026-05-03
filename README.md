@@ -1,37 +1,62 @@
-# Netflix Data Analysis Dashboard
+# 🎬 Netflix Content Analysis: Growth Trends & Content Strategy Insights
 
-## Project Overview
-This project analyzes Netflix's global content catalog to understand trends in content production, genres, ratings, and country distribution.
+## 📌 Project Overview
+This project analyzes Netflix's global content catalog to identify trends in content production, genre distribution, and regional contribution.
 
-SQL was used for data cleaning and querying, while Power BI was used to create an interactive dashboard.
+The objective is to understand how Netflix’s content strategy has evolved over time and derive insights that can support content acquisition and production decisions.
 
-## Tools Used
-- SQL Server
-- Power BI
-- Excel
+---
 
-## Business Questions Answered
-- How many movies vs TV shows exist?
-- Which countries produce the most content?
-- What are the most common genres?
-- How has Netflix content grown over time?
+## 🛠 Tools & Technologies
+- SQL Server (Data analysis)
+- Power BI (Dashboard visualization)
+- Excel (Dataset)
 
-## Key Insights
-• TV Shows are rapidly increasing in comparison to movies  
-• United States, India, and UK dominate content production  
-• TV-MA and TV-14 are the most common ratings  
-• Significant content growth after 2015  
+---
 
-## Dashboard Features
-- Movie vs TV show comparison
-- Content distribution by genre
-- Ratings breakdown
-- Releases over time
-- Top directors analysis
+## 📊 Key Business Questions
+- How has Netflix’s content library evolved over time?
+- Which countries contribute most to content production?
+- What genres dominate the platform?
+- What ratings are most common across content types?
 
-## Dashboard Preview
+---
 
+## 📈 Key Insights
+- Netflix content has grown significantly after 2015, indicating rapid platform expansion  
+- TV Shows are increasing at a faster rate than movies, suggesting a shift toward long-form content  
+- Content production is concentrated in a few countries (USA, India, UK), indicating regional dependency  
+- Mature content ratings (TV-MA, TV-14) dominate, reflecting audience preference trends  
+
+---
+
+## 💡 Business Recommendations
+- Increase content production in underrepresented regions to diversify the catalog  
+- Invest more in TV shows due to growing demand for long-form content  
+- Balance content ratings to target a broader audience base  
+- Expand genre diversity to reduce dependency on dominant categories  
+
+---
+
+## 📊 Dashboard Features
+- Movie vs TV show distribution  
+- Content growth trends over time  
+- Country-wise content contribution  
+- Genre distribution analysis  
+- Ratings breakdown  
+- Interactive filters  
+
+---
+
+## 📊 Dashboard Preview
 ![Dashboard](dashboard_preview.png)
 
-## Author
+---
+
+## 📂 Dataset
+Netflix titles dataset containing global content information including genre, country, release year, and ratings.
+
+---
+
+## 👤 Author
 Kesar Deaulkar
